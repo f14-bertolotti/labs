@@ -1,2 +1,5 @@
 .ipynb_checkpoints
-.venv
+.venv*
+ 
+DSE/RecommendationSystems/ml-25m/
+DSE/RecommendationSystems/dataset.zip
