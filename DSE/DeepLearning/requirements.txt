@@ -1,0 +1,5 @@
+tensorflow
+ipykernel
+ipywidgets
+ipympl
+matplotlib
