@@ -1,4 +1,6 @@
 tensorflow
+wget
+Pillow
 ipykernel
 ipywidgets
 ipympl
