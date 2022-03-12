@@ -6,4 +6,8 @@ DSE/RecommendationSystems/dataset.zip
 DSE/DeepLearning/data.zip
 DSE/DeepLearning/data/
 DSE/DeepLearning/samples/
+DSE/DeepLearning/bookcorpus_tokenizer.json
+DSE/DeepLearning/local.tf/
+DSE/DeepLearning/model.tf/
+DSE/PageRank/dataset.txt
 
