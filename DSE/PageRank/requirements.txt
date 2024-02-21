@@ -1,4 +1,0 @@
-pyspark
-ipykernel
-wget
-numpy

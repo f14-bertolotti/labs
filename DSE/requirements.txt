@@ -1,0 +1,22 @@
+# Common ######################################
+jupyterlab
+ipywidgets
+ipykernel
+ipympl
+numpy
+wget
+###############################################
+
+
+# Spark & Page Rank & Reccomendation Systems ##
+pyspark
+###############################################
+
+
+# Deep Learning Systems
+transformers
+tensorflow
+matplotlib
+datasets
+Pillow
+###############################################

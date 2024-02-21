@@ -1,9 +1,0 @@
-tensorflow
-transformers
-wget
-datasets
-Pillow
-ipykernel
-ipywidgets
-ipympl
-matplotlib
