@@ -18,5 +18,8 @@ run-deep-learning: venv/bin/activate
 run-recommendation-system: venv/bin/activate
 	venv/bin/python3 -m jupyter lab ./RecommendationSystems
 
+run-market-basket: venv/bin/activate
+	venv/bin/python3 -m jupyter lab ./MarketBasket
+
 clean:
 	rm -rf venv
